@@ -4,11 +4,6 @@
   
 </p>
 
-Software engineering student and aspiring software entrepreneur with  
-a focus on modular software and clean code.
-
-Interested in building fun, interactive, and beautiful experiences  
-(front-end/graphics/games/VR/creative coding).  
 
 ## Life
 
@@ -61,25 +56,4 @@ Other skills: \
 
 ---
 
-<a href="">
-    <img height="32" align="left" alt="Telegram" src="![image](https://github.com/sezz1234/sezz1234/assets/58569151/21ee2288-118e-4a7b-9e5d-dc96483281cd)
-" />
-</a>
-
-<a href="">
-    <img height="32" align="left" alt="VK" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png" />
-</a>
-
-
-<a href="">
-    <img height="32" align="left" alt="Instagram" src="img/icons/paypal.png" />
-</a>
-
-<a href="">
-    <img height="32" align="left" alt="Listen to my songs" src="img/icons/buymeacoffee.png" />
-</a>
-
-<a href="">
-    <img height="32" align="left" alt="My Steam" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png" />
-</a>
 
