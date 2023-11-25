@@ -1,4 +1,8 @@
-# Hi, I'm Max! :wave:
+## <p align="center">Hi, I'm Max! 🐧</p>
+<p>
+    <img align="left" alt="" width="4000" src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" />
+  
+</p>
 
 Software engineering student and aspiring software entrepreneur with  
 a focus on modular software and clean code.
@@ -8,15 +12,15 @@ Interested in building fun, interactive, and beautiful experiences
 
 ## Life
 
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
+<img align="right" alt="Bred the penguin chillin' by the fire." width="400" src="https://media.giphy.com/media/s73EQWBuDlcas/giphy.gif" />
 
-:shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
-:shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
-:shipit: Android @ [**Taperk**][taperk]  
-:shipit: Full-stack @ [**RocLab**][roclab]  
-:shipit: Founder @ [**Abyss Inc.**][abyss]  
-:shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
-:shipit: Open-source enthusiast year-round (3400+ contributions)
+🐧 19 years old  
+🐧 Russian \
+🐧 Student of SF MAI \
+🐧 Python-junior developer \
+🐧 Front-end developer \
+🐧 Not married \
+🐧 Love penguins
 
 
 ## Skills
@@ -28,9 +32,12 @@ Interested in building fun, interactive, and beautiful experiences
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-_Favorite programming language: Python._  
-_Other skills: 🎸: nusician, 🎤: singer,
-🚗: drifter, 🎮: gamer._
+
+Other skills: \
+🎸: Musician \
+🎤: Singer\
+🚗: Drifter \
+🎮: Gamer 
 
 ### Software
 
@@ -43,7 +50,7 @@ _Other skills: 🎸: nusician, 🎤: singer,
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-[![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
+
 
 
 <p align="center">
@@ -60,7 +67,7 @@ _Other skills: 🎸: nusician, 🎤: singer,
 </a>
 
 <a href="">
-    <img height="32" align="left" alt="VK" src="img/icons/gmail.png" />
+    <img height="32" align="left" alt="VK" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png" />
 </a>
 
 
@@ -73,6 +80,6 @@ _Other skills: 🎸: nusician, 🎤: singer,
 </a>
 
 <a href="">
-    <img height="32" align="left" alt="My Steam" src="img/icons/liberapay.png" />
+    <img height="32" align="left" alt="My Steam" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png" />
 </a>
 
