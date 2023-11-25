@@ -1,4 +1,4 @@
-# Hi, I'm Max :wave:
+# Hi, I'm Max! :wave:
 
 Software engineering student and aspiring software entrepreneur with  
 a focus on modular software and clean code.
@@ -18,12 +18,6 @@ Interested in building fun, interactive, and beautiful experiences
 :shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
 :shipit: Open-source enthusiast year-round (3400+ contributions)
 
-[42tm]: https://github.com/42tm
-[abyss]: https://github.com/abyss-inc
-[ur]: https://rochester.edu
-[siggraph]: https://siggraph.org
-[taperk]: https://taperk.com
-[roclab]: https://roclab.io
 
 ## Skills
 
@@ -60,34 +54,24 @@ _Other skills: 🎸: nusician, 🎤: singer,
 
 ---
 
-<!--<a href="https://novakcgx.me">
-    <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
+<!--<a href="">
+    <img height="32" align="left" alt="Telegram" src="img/icons/personal.png" />
 </a>-->
 
-<a href="mailto:duongnguyen18@siggraph.org">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+<a href="">
+    <img height="32" align="left" alt="VK" src="img/icons/gmail.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/zach-nguyen">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+
+<a href="">
+    <img height="32" align="left" alt="Instagram" src="img/icons/paypal.png" />
 </a>
 
-<a href="https://paypal.me/dnguy38">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
+<a href="">
+    <img height="32" align="left" alt="Listen to my songs" src="img/icons/buymeacoffee.png" />
 </a>
 
-<a href="https://www.buymeacoffee.com/cszach">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
+<a href="">
+    <img height="32" align="left" alt="My Steam" src="img/icons/liberapay.png" />
 </a>
 
-<a href="https://liberapay.com/cszach">
-    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
-</a>
-
-<a href="https://www.instagram.com/thechonkypenguin">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
-</a>
-
-<a href="https://dribbble.com/cszach">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
-</a>
