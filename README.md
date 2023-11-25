@@ -54,9 +54,10 @@ _Other skills: 🎸: nusician, 🎤: singer,
 
 ---
 
-<!--<a href="">
-    <img height="32" align="left" alt="Telegram" src="img/icons/personal.png" />
-</a>-->
+<a href="">
+    <img height="32" align="left" alt="Telegram" src="![image](https://github.com/sezz1234/sezz1234/assets/58569151/21ee2288-118e-4a7b-9e5d-dc96483281cd)
+" />
+</a>
 
 <a href="">
     <img height="32" align="left" alt="VK" src="img/icons/gmail.png" />
